@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   # ---- Spec 元数据-----------
   s.name         = "XLJSegScrollView" #这里的名字会跟pod search 中的名字一样，和AFNetworking的名字一样
-  s.version      = "0.0.1" #版本号一定要和push tag的版本号一至
+  s.version      = "1.0.1" #版本号一定要和push tag的版本号一至
   s.summary      = "快速实现标题和下划线一起滚动的功能" #这里的描述不要和description描述相同，否则发报警告
 
   # This description is used to generate tags and improve search results.
