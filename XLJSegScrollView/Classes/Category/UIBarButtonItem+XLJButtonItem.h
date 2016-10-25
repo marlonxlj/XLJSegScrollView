@@ -10,4 +10,6 @@
 
 @interface UIBarButtonItem (XLJButtonItem)
 
++ (UIBarButtonItem *)barButtonItemWithImage:(UIImage *)image highLightedImage:(UIImage *)highLightImage target:(id)target action:(SEL)action forControlEvents:(UIControlEvents)controlEvents;
+
 @end

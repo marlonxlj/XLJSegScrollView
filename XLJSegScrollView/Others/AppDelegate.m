@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "XLJTabBarController.h"
 
 @interface AppDelegate ()
 
@@ -18,6 +19,10 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    
+    XLJTabBarController *tabBarVC = [XLJTabBarController new];
+    
+    self.window.rootViewController = tabBarVC;
     
     [self.window makeKeyAndVisible];
     

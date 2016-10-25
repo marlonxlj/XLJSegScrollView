@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		176410A11DB87BB30016218D /* XLJScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 176410A01DB87BB30016218D /* XLJScrollView.m */; };
+		176410A41DB87BF20016218D /* XLJSegment.m in Sources */ = {isa = PBXBuildFile; fileRef = 176410A31DB87BF20016218D /* XLJSegment.m */; };
+		17828E361DB5FD7000E40E2B /* XLJTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E351DB5FD7000E40E2B /* XLJTabBar.m */; };
+		17828E3A1DB5FE4800E40E2B /* XLJFirstController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E391DB5FE4800E40E2B /* XLJFirstController.m */; };
+		17828E3D1DB5FE5800E40E2B /* XLJSecondController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E3C1DB5FE5800E40E2B /* XLJSecondController.m */; };
+		17828E401DB5FE6300E40E2B /* XLJThirdController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E3F1DB5FE6300E40E2B /* XLJThirdController.m */; };
+		17828E431DB5FE7400E40E2B /* XLJFourController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E421DB5FE7400E40E2B /* XLJFourController.m */; };
+		17828E461DB5FE8D00E40E2B /* XLJFiveController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E451DB5FE8D00E40E2B /* XLJFiveController.m */; };
+		17828E491DB5FEFA00E40E2B /* XLJBaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E481DB5FEFA00E40E2B /* XLJBaseController.m */; };
+		17828E4C1DB70FF700E40E2B /* XLJTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E4B1DB70FF700E40E2B /* XLJTabBarButton.m */; };
+		17828E4F1DB76CA700E40E2B /* XLJTestGepController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17828E4E1DB76CA700E40E2B /* XLJTestGepController.m */; };
+		178675661DBF4B9C00B5499B /* XLJYongController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178675651DBF4B9C00B5499B /* XLJYongController.m */; };
+		178675691DBF4BC100B5499B /* XLJActivityController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178675681DBF4BC100B5499B /* XLJActivityController.m */; };
+		1786756C1DBF4BF600B5499B /* XLJTomorrowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1786756B1DBF4BF600B5499B /* XLJTomorrowController.m */; };
+		1786756F1DBF4C0C00B5499B /* XLJMusicController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1786756E1DBF4C0C00B5499B /* XLJMusicController.m */; };
+		178675721DBF4C2300B5499B /* XLJVedioController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178675711DBF4C2300B5499B /* XLJVedioController.m */; };
+		178675751DBF4C3800B5499B /* XLJWellComeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178675741DBF4C3800B5499B /* XLJWellComeController.m */; };
+		178675781DBF4C5D00B5499B /* XLJPersonalController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178675771DBF4C5D00B5499B /* XLJPersonalController.m */; };
+		1786757B1DBF4CE500B5499B /* XLJRecommendController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1786757A1DBF4CE500B5499B /* XLJRecommendController.m */; };
+		17BBD43F1DBDF179000434B3 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17BBD43E1DBDF179000434B3 /* WebKit.framework */; };
 		17DCDF6E1DB4BF2E00AF3EF6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17DCDF6D1DB4BF2E00AF3EF6 /* main.m */; };
 		17DCDF791DB4BF2E00AF3EF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17DCDF781DB4BF2E00AF3EF6 /* Assets.xcassets */; };
 		17DCDF7C1DB4BF2E00AF3EF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17DCDF7A1DB4BF2E00AF3EF6 /* LaunchScreen.storyboard */; };
@@ -16,6 +36,7 @@
 		17DCDFAA1DB4BFF000AF3EF6 /* XLJNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17DCDFA61DB4BFF000AF3EF6 /* XLJNavigationController.m */; };
 		17DCDFAB1DB4BFF000AF3EF6 /* XLJTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17DCDFA81DB4BFF000AF3EF6 /* XLJTabBarController.m */; };
 		17DCDFB11DB4C18400AF3EF6 /* UIBarButtonItem+XLJButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 17DCDFB01DB4C18400AF3EF6 /* UIBarButtonItem+XLJButtonItem.m */; };
+		F3687113342EE454663C26E6 /* libPods-XLJSegScrollView.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D795E9AA64B7878FCA26A325 /* libPods-XLJSegScrollView.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +57,46 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1764109F1DB87BB30016218D /* XLJScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJScrollView.h; sourceTree = "<group>"; };
+		176410A01DB87BB30016218D /* XLJScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJScrollView.m; sourceTree = "<group>"; };
+		176410A21DB87BF20016218D /* XLJSegment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJSegment.h; sourceTree = "<group>"; };
+		176410A31DB87BF20016218D /* XLJSegment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJSegment.m; sourceTree = "<group>"; };
+		17828E341DB5FD7000E40E2B /* XLJTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJTabBar.h; sourceTree = "<group>"; };
+		17828E351DB5FD7000E40E2B /* XLJTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJTabBar.m; sourceTree = "<group>"; };
+		17828E381DB5FE4800E40E2B /* XLJFirstController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJFirstController.h; sourceTree = "<group>"; };
+		17828E391DB5FE4800E40E2B /* XLJFirstController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJFirstController.m; sourceTree = "<group>"; };
+		17828E3B1DB5FE5800E40E2B /* XLJSecondController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJSecondController.h; sourceTree = "<group>"; };
+		17828E3C1DB5FE5800E40E2B /* XLJSecondController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJSecondController.m; sourceTree = "<group>"; };
+		17828E3E1DB5FE6300E40E2B /* XLJThirdController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJThirdController.h; sourceTree = "<group>"; };
+		17828E3F1DB5FE6300E40E2B /* XLJThirdController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJThirdController.m; sourceTree = "<group>"; };
+		17828E411DB5FE7400E40E2B /* XLJFourController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJFourController.h; sourceTree = "<group>"; };
+		17828E421DB5FE7400E40E2B /* XLJFourController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJFourController.m; sourceTree = "<group>"; };
+		17828E441DB5FE8D00E40E2B /* XLJFiveController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJFiveController.h; sourceTree = "<group>"; };
+		17828E451DB5FE8D00E40E2B /* XLJFiveController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJFiveController.m; sourceTree = "<group>"; };
+		17828E471DB5FEFA00E40E2B /* XLJBaseController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJBaseController.h; sourceTree = "<group>"; };
+		17828E481DB5FEFA00E40E2B /* XLJBaseController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJBaseController.m; sourceTree = "<group>"; };
+		17828E4A1DB70FF700E40E2B /* XLJTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJTabBarButton.h; sourceTree = "<group>"; };
+		17828E4B1DB70FF700E40E2B /* XLJTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJTabBarButton.m; sourceTree = "<group>"; };
+		17828E4D1DB76CA700E40E2B /* XLJTestGepController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJTestGepController.h; sourceTree = "<group>"; };
+		17828E4E1DB76CA700E40E2B /* XLJTestGepController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJTestGepController.m; sourceTree = "<group>"; };
+		178675641DBF4B9C00B5499B /* XLJYongController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJYongController.h; sourceTree = "<group>"; };
+		178675651DBF4B9C00B5499B /* XLJYongController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJYongController.m; sourceTree = "<group>"; };
+		178675671DBF4BC100B5499B /* XLJActivityController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJActivityController.h; sourceTree = "<group>"; };
+		178675681DBF4BC100B5499B /* XLJActivityController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJActivityController.m; sourceTree = "<group>"; };
+		1786756A1DBF4BF600B5499B /* XLJTomorrowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJTomorrowController.h; sourceTree = "<group>"; };
+		1786756B1DBF4BF600B5499B /* XLJTomorrowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJTomorrowController.m; sourceTree = "<group>"; };
+		1786756D1DBF4C0C00B5499B /* XLJMusicController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJMusicController.h; sourceTree = "<group>"; };
+		1786756E1DBF4C0C00B5499B /* XLJMusicController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJMusicController.m; sourceTree = "<group>"; };
+		178675701DBF4C2300B5499B /* XLJVedioController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJVedioController.h; sourceTree = "<group>"; };
+		178675711DBF4C2300B5499B /* XLJVedioController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJVedioController.m; sourceTree = "<group>"; };
+		178675731DBF4C3800B5499B /* XLJWellComeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJWellComeController.h; sourceTree = "<group>"; };
+		178675741DBF4C3800B5499B /* XLJWellComeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJWellComeController.m; sourceTree = "<group>"; };
+		178675761DBF4C5D00B5499B /* XLJPersonalController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJPersonalController.h; sourceTree = "<group>"; };
+		178675771DBF4C5D00B5499B /* XLJPersonalController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJPersonalController.m; sourceTree = "<group>"; };
+		178675791DBF4CE500B5499B /* XLJRecommendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLJRecommendController.h; sourceTree = "<group>"; };
+		1786757A1DBF4CE500B5499B /* XLJRecommendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJRecommendController.m; sourceTree = "<group>"; };
+		17BBD43C1DBDF115000434B3 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/PrivateFrameworks/WebKit.framework; sourceTree = SDKROOT; };
+		17BBD43E1DBDF179000434B3 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		17DCDF691DB4BF2E00AF3EF6 /* XLJSegScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XLJSegScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17DCDF6D1DB4BF2E00AF3EF6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		17DCDF781DB4BF2E00AF3EF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -55,6 +116,9 @@
 		17DCDFA81DB4BFF000AF3EF6 /* XLJTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLJTabBarController.m; sourceTree = "<group>"; };
 		17DCDFAF1DB4C18400AF3EF6 /* UIBarButtonItem+XLJButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+XLJButtonItem.h"; sourceTree = "<group>"; };
 		17DCDFB01DB4C18400AF3EF6 /* UIBarButtonItem+XLJButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+XLJButtonItem.m"; sourceTree = "<group>"; };
+		75428D54D468D968A23F1F72 /* Pods-XLJSegScrollView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XLJSegScrollView.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XLJSegScrollView/Pods-XLJSegScrollView.debug.xcconfig"; sourceTree = "<group>"; };
+		C203BD33196B10B5291F9034 /* Pods-XLJSegScrollView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XLJSegScrollView.release.xcconfig"; path = "Pods/Target Support Files/Pods-XLJSegScrollView/Pods-XLJSegScrollView.release.xcconfig"; sourceTree = "<group>"; };
+		D795E9AA64B7878FCA26A325 /* libPods-XLJSegScrollView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XLJSegScrollView.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +126,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17BBD43F1DBDF179000434B3 /* WebKit.framework in Frameworks */,
+				F3687113342EE454663C26E6 /* libPods-XLJSegScrollView.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,6 +148,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1764109E1DB87B590016218D /* XlJSegScrollviews */ = {
+			isa = PBXGroup;
+			children = (
+				1764109F1DB87BB30016218D /* XLJScrollView.h */,
+				176410A01DB87BB30016218D /* XLJScrollView.m */,
+				176410A21DB87BF20016218D /* XLJSegment.h */,
+				176410A31DB87BF20016218D /* XLJSegment.m */,
+			);
+			path = XlJSegScrollviews;
+			sourceTree = "<group>";
+		};
+		17828E371DB5FE1D00E40E2B /* OtherView */ = {
+			isa = PBXGroup;
+			children = (
+				178675601DBF4AAD00B5499B /* ChildTitleView */,
+				1764109E1DB87B590016218D /* XlJSegScrollviews */,
+				17828E381DB5FE4800E40E2B /* XLJFirstController.h */,
+				17828E391DB5FE4800E40E2B /* XLJFirstController.m */,
+				17828E3B1DB5FE5800E40E2B /* XLJSecondController.h */,
+				17828E3C1DB5FE5800E40E2B /* XLJSecondController.m */,
+				17828E3E1DB5FE6300E40E2B /* XLJThirdController.h */,
+				17828E3F1DB5FE6300E40E2B /* XLJThirdController.m */,
+				17828E411DB5FE7400E40E2B /* XLJFourController.h */,
+				17828E421DB5FE7400E40E2B /* XLJFourController.m */,
+				17828E441DB5FE8D00E40E2B /* XLJFiveController.h */,
+				17828E451DB5FE8D00E40E2B /* XLJFiveController.m */,
+				17828E4D1DB76CA700E40E2B /* XLJTestGepController.h */,
+				17828E4E1DB76CA700E40E2B /* XLJTestGepController.m */,
+			);
+			path = OtherView;
+			sourceTree = "<group>";
+		};
+		178675601DBF4AAD00B5499B /* ChildTitleView */ = {
+			isa = PBXGroup;
+			children = (
+				178675641DBF4B9C00B5499B /* XLJYongController.h */,
+				178675651DBF4B9C00B5499B /* XLJYongController.m */,
+				178675671DBF4BC100B5499B /* XLJActivityController.h */,
+				178675681DBF4BC100B5499B /* XLJActivityController.m */,
+				1786756A1DBF4BF600B5499B /* XLJTomorrowController.h */,
+				1786756B1DBF4BF600B5499B /* XLJTomorrowController.m */,
+				1786756D1DBF4C0C00B5499B /* XLJMusicController.h */,
+				1786756E1DBF4C0C00B5499B /* XLJMusicController.m */,
+				178675701DBF4C2300B5499B /* XLJVedioController.h */,
+				178675711DBF4C2300B5499B /* XLJVedioController.m */,
+				178675731DBF4C3800B5499B /* XLJWellComeController.h */,
+				178675741DBF4C3800B5499B /* XLJWellComeController.m */,
+				178675761DBF4C5D00B5499B /* XLJPersonalController.h */,
+				178675771DBF4C5D00B5499B /* XLJPersonalController.m */,
+				178675791DBF4CE500B5499B /* XLJRecommendController.h */,
+				1786757A1DBF4CE500B5499B /* XLJRecommendController.m */,
+			);
+			path = ChildTitleView;
+			sourceTree = "<group>";
+		};
 		17DCDF601DB4BF2E00AF3EF6 = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +210,8 @@
 				17DCDF851DB4BF2E00AF3EF6 /* XLJSegScrollViewTests */,
 				17DCDF901DB4BF2E00AF3EF6 /* XLJSegScrollViewUITests */,
 				17DCDF6A1DB4BF2E00AF3EF6 /* Products */,
+				AF33D66C9D49DAB22519993D /* Pods */,
+				5F2F08A1E0B2D929033DAC3D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -153,6 +276,7 @@
 		17DCDFA31DB4BFF000AF3EF6 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				17828E371DB5FE1D00E40E2B /* OtherView */,
 				17DCDFA41DB4BFF000AF3EF6 /* BaseClass */,
 				17DCDFA91DB4BFF000AF3EF6 /* Category */,
 			);
@@ -166,6 +290,12 @@
 				17DCDFA61DB4BFF000AF3EF6 /* XLJNavigationController.m */,
 				17DCDFA71DB4BFF000AF3EF6 /* XLJTabBarController.h */,
 				17DCDFA81DB4BFF000AF3EF6 /* XLJTabBarController.m */,
+				17828E341DB5FD7000E40E2B /* XLJTabBar.h */,
+				17828E351DB5FD7000E40E2B /* XLJTabBar.m */,
+				17828E4A1DB70FF700E40E2B /* XLJTabBarButton.h */,
+				17828E4B1DB70FF700E40E2B /* XLJTabBarButton.m */,
+				17828E471DB5FEFA00E40E2B /* XLJBaseController.h */,
+				17828E481DB5FEFA00E40E2B /* XLJBaseController.m */,
 			);
 			path = BaseClass;
 			sourceTree = "<group>";
@@ -179,6 +309,25 @@
 			path = Category;
 			sourceTree = "<group>";
 		};
+		5F2F08A1E0B2D929033DAC3D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17BBD43E1DBDF179000434B3 /* WebKit.framework */,
+				17BBD43C1DBDF115000434B3 /* WebKit.framework */,
+				D795E9AA64B7878FCA26A325 /* libPods-XLJSegScrollView.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AF33D66C9D49DAB22519993D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				75428D54D468D968A23F1F72 /* Pods-XLJSegScrollView.debug.xcconfig */,
+				C203BD33196B10B5291F9034 /* Pods-XLJSegScrollView.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -186,9 +335,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 17DCDF961DB4BF2E00AF3EF6 /* Build configuration list for PBXNativeTarget "XLJSegScrollView" */;
 			buildPhases = (
+				144549D662803E89805312CA /* [CP] Check Pods Manifest.lock */,
 				17DCDF651DB4BF2E00AF3EF6 /* Sources */,
 				17DCDF661DB4BF2E00AF3EF6 /* Frameworks */,
 				17DCDF671DB4BF2E00AF3EF6 /* Resources */,
+				EFC27F25B6EADFD37B6838FC /* [CP] Embed Pods Frameworks */,
+				52BDC009019F5C61ADC7F8F6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -304,16 +456,83 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		144549D662803E89805312CA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		52BDC009019F5C61ADC7F8F6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-XLJSegScrollView/Pods-XLJSegScrollView-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EFC27F25B6EADFD37B6838FC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-XLJSegScrollView/Pods-XLJSegScrollView-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		17DCDF651DB4BF2E00AF3EF6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				178675781DBF4C5D00B5499B /* XLJPersonalController.m in Sources */,
 				17DCDFA21DB4BFE900AF3EF6 /* AppDelegate.m in Sources */,
 				17DCDFAA1DB4BFF000AF3EF6 /* XLJNavigationController.m in Sources */,
+				17828E431DB5FE7400E40E2B /* XLJFourController.m in Sources */,
 				17DCDFAB1DB4BFF000AF3EF6 /* XLJTabBarController.m in Sources */,
+				1786756F1DBF4C0C00B5499B /* XLJMusicController.m in Sources */,
 				17DCDFB11DB4C18400AF3EF6 /* UIBarButtonItem+XLJButtonItem.m in Sources */,
+				1786757B1DBF4CE500B5499B /* XLJRecommendController.m in Sources */,
+				17828E461DB5FE8D00E40E2B /* XLJFiveController.m in Sources */,
+				17828E3A1DB5FE4800E40E2B /* XLJFirstController.m in Sources */,
+				178675661DBF4B9C00B5499B /* XLJYongController.m in Sources */,
+				17828E4F1DB76CA700E40E2B /* XLJTestGepController.m in Sources */,
+				178675751DBF4C3800B5499B /* XLJWellComeController.m in Sources */,
+				178675721DBF4C2300B5499B /* XLJVedioController.m in Sources */,
+				176410A41DB87BF20016218D /* XLJSegment.m in Sources */,
+				178675691DBF4BC100B5499B /* XLJActivityController.m in Sources */,
+				17828E361DB5FD7000E40E2B /* XLJTabBar.m in Sources */,
+				17828E4C1DB70FF700E40E2B /* XLJTabBarButton.m in Sources */,
+				17828E3D1DB5FE5800E40E2B /* XLJSecondController.m in Sources */,
 				17DCDF6E1DB4BF2E00AF3EF6 /* main.m in Sources */,
+				176410A11DB87BB30016218D /* XLJScrollView.m in Sources */,
+				17828E401DB5FE6300E40E2B /* XLJThirdController.m in Sources */,
+				1786756C1DBF4BF600B5499B /* XLJTomorrowController.m in Sources */,
+				17828E491DB5FEFA00E40E2B /* XLJBaseController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,8 +661,13 @@
 		};
 		17DCDF971DB4BF2E00AF3EF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75428D54D468D968A23F1F72 /* Pods-XLJSegScrollView.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks",
+				);
 				INFOPLIST_FILE = XLJSegScrollView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -454,8 +678,13 @@
 		};
 		17DCDF981DB4BF2E00AF3EF6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C203BD33196B10B5291F9034 /* Pods-XLJSegScrollView.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SDKROOT)$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks",
+				);
 				INFOPLIST_FILE = XLJSegScrollView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -531,6 +760,7 @@
 				17DCDF981DB4BF2E00AF3EF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17DCDF991DB4BF2E00AF3EF6 /* Build configuration list for PBXNativeTarget "XLJSegScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +769,7 @@
 				17DCDF9B1DB4BF2E00AF3EF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17DCDF9C1DB4BF2E00AF3EF6 /* Build configuration list for PBXNativeTarget "XLJSegScrollViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +778,7 @@
 				17DCDF9E1DB4BF2E00AF3EF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
